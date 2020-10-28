@@ -8,7 +8,7 @@
     "generate": "graphqlgen"
   },
   "dependencies": {
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "graphql": "^14.0.2",
     "graphql-shield": "^3.2.5",
     "graphql-yoga": "^1.16.7",
