@@ -11,7 +11,7 @@
     "flow-bin": "0.237.2",
     "flow-typed": "2.6.2",
     "graphql-resolver-codegen": "0.3.1",
-    "npm-run-all2": "5.0.2"
+    "npm-run-all2": "6.2.0"
   },
   "dependencies": {
     "graphql": "^0.13.2",
