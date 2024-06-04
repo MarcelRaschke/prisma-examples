@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "graphql": "^0.13.2",
-    "graphql-yoga": "^1.16.1",
+    "graphql-yoga": "^5.0.0",
     "prisma-client-lib": "1.19.0-beta.12"
   },
   "scripts": {
