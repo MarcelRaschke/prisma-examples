@@ -4,7 +4,7 @@
   "main": "src/usage.js",
   "license": "MIT",
   "dependencies": {
-    "graphql": "^14.0.2",
+    "graphql": "^16.0.0",
     "prisma-client-lib": "1.20.7"
   },
   "scripts": {
